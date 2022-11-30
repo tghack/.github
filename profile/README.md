@@ -1,4 +1,4 @@
-![](./tghack.gif)
+![](tghack.gif)
 
 Norway's largest CTF (Jeopardy styled hacking competition), hosted at and a part of Norway's largest LAN-party @gathering .
 
