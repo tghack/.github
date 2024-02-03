@@ -14,7 +14,7 @@ Norway's largest CTF (Jeopardy styled hacking competition), hosted at and a part
 - [TG18Hack](https://github.com/tghack/tg18hack)
 - [TG19Hack](https://github.com/tghack/tg19hack)
 - [TG20Hack](https://github.com/tghack/tg20hack)
-- [TG21Hack](https://github.com/tghack/tg21hack)
+- [TG21Hack](https://github.com/tghack/tghack21)
 - [TG22Hack](https://github.com/tghack/tg22hack)
 - [TG23Hack](https://github.com/tghack/tg23hack)
 
