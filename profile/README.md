@@ -1,6 +1,6 @@
 ![tghack_sort_logo_static](https://github.com/tghack/.github/assets/2757177/381b58a9-62a5-4d36-8f9b-6ba130ee6311)
 
-Norway's largest CTF (Jeopardy styled hacking competition), hosted at and a part of Norway's largest LAN-party @gathering .
+Norway's largest CTF (Jeopardy styled hacking competition), hosted at and a part of Norway's largest LAN-party [@gathering](https://github.com/gathering) .
 
 # Social
 - Twitter: https://twitter.com/tghack_ctf
