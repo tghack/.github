@@ -3,8 +3,8 @@
 Norway's largest CTF (Jeopardy styled hacking competition), hosted at and a part of Norway's largest LAN-party [@gathering](https://github.com/gathering) .
 
 # Social
-- Twitter: https://twitter.com/tghack_ctf
-- Instagram: https://www.instagram.com/tghack_ctf
+- Mastodon: https://infosec.exchange/@tghack
+- Pixelfed: https://pixel.infosec.exchange/tghack
 - Discord: https://discord.gg/gathering
 
 # Writeups
