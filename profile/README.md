@@ -6,6 +6,7 @@ Norway's largest CTF (Jeopardy styled hacking competition), hosted at and a part
 - Mastodon: https://infosec.exchange/@tghack
 - Pixelfed: https://pixel.infosec.exchange/tghack
 - Discord: https://discord.gg/gathering
+- Linkedin: https://www.linkedin.com/company/tghack
 
 # Writeups
 - [TG15Hack](https://github.com/tghack/tg15hack)
