@@ -20,6 +20,7 @@ Norway's largest CTF (Jeopardy styled hacking competition), hosted at and a part
 - [TG23Hack](https://github.com/tghack/tg23hack)
 - ~~TG24Hack~~
 - [TG25Hack](https://github.com/tghack/tg25hack)
+- [TG26Hack](https://github.com/tghack/tg26hack)
 
 # Walkthrough
 * TG23:Hack was not recorded :( (next time it will <3 )
